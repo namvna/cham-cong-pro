@@ -1,9 +1,0 @@
-{
-  "appId": "com.chamcongpro.mobile",
-  "appName": "Chấm Công Pro",
-  "webDir": "www",
-  "bundledWebRuntime": false,
-  "ios": {
-    "contentInset": "always"
-  }
-}
