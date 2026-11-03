@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Chấm Công Pro",
+    "slug": "cham-cong-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chamcongpro.mobile",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "CFBundleDisplayName": "Chấm Công Pro"
+      }
+    },
+    "android": {
+      "package": "com.chamcongpro.mobile",
+      "versionCode": 1
+    }
+  }
+}
